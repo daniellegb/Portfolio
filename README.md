@@ -2,13 +2,30 @@
 
 ## Some Applications:
 
+### DS Catalog (in progress...)
+
+This App has a store catalog that can be accessed and modified by users of many roles (admin and/or operator for example). 
+
+Backend: JAVA, Spring boot.
+Frontend: Typescript, React.
+
+Code: https://github.com/daniellegb/ds-catalog-bootcamp-devsuperior
+
+### DS Learn (in progress...)
+
+This App is a reproduction of a learn platform. 
+
+Backend: JAVA, Spring boot.
+
+Code: https://github.com/daniellegb/bds-dslearn
+
 ### GitHub profile finder
 
 This simple app searchs the profile that you ask for at GitHub API!
 
-Languages, frameworks and tecnologies: Netlify, HTML, CSS, Typescript and React.
+Frontend: Netlify, HTML, CSS, Typescript and React.
 
-Code: https://github.com/daniellegb/github-user-search
+Code: https://github.com/daniellegb/github-user-search ;
 Netlify (prod): https://daniellegb-github-user-search.netlify.app/search
 
 
@@ -16,8 +33,9 @@ Netlify (prod): https://daniellegb-github-user-search.netlify.app/search
 
 This app shows a dashboard sales. You can check out the success tax of the sellers and infos about the sales.
 
-Languages, frameworks and tecnologies: JAVA, Spring Boot, SQL, Postman, PostgreSQL, Heroku, Netlify, HTML, CSS, Typescript, Bootstrap, ApexCharts and React.
+Backend: JAVA, Spring Boot, SQL, Postman, PostgreSQL and Heroku.
+Frontend: HTML, CSS, Typescript, Bootstrap, ApexCharts, React and Netlify.
 
-Code: https://github.com/daniellegb/ws-sds3
+Code: https://github.com/daniellegb/ws-sds3 ;
 Netlify (prod): https://daniellegb-sds3.netlify.app/
 
