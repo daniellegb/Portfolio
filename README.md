@@ -1,6 +1,8 @@
 # Portfolio
 
-## Some Applications:
+Welcome to my portifolio! Here you can find some code and solutions that I wrote as a continue study porpose.
+
+## Some Apps:
 
 ### DS Catalog (in progress...)
 
@@ -11,6 +13,7 @@ Frontend: Typescript, React.
 
 Code: https://github.com/daniellegb/ds-catalog-bootcamp-devsuperior
 
+
 ### DS Learn (in progress...)
 
 This App is a reproduction of a learn platform. 
@@ -19,13 +22,14 @@ Backend: JAVA, Spring boot.
 
 Code: https://github.com/daniellegb/bds-dslearn
 
+
 ### GitHub profile finder
 
 This simple app searchs the profile that you ask for at GitHub API!
 
 Frontend: Netlify, HTML, CSS, Typescript and React.
 
-Code: https://github.com/daniellegb/github-user-search ;
+Code: https://github.com/daniellegb/github-user-search .
 Netlify (prod): https://daniellegb-github-user-search.netlify.app/search
 
 
@@ -36,6 +40,10 @@ This app shows a dashboard sales. You can check out the success tax of the selle
 Backend: JAVA, Spring Boot, SQL, Postman, PostgreSQL and Heroku.
 Frontend: HTML, CSS, Typescript, Bootstrap, ApexCharts, React and Netlify.
 
-Code: https://github.com/daniellegb/ws-sds3 ;
+Code: https://github.com/daniellegb/ws-sds3 .
 Netlify (prod): https://daniellegb-sds3.netlify.app/
 
+
+## Solutions for Udemy's Complete JAVA course:
+
+This repository has many JAVA exercises solved: https://github.com/daniellegb/exercises-java
