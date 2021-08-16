@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my portfolio! Here you can find some codes and solutions that I wrote as an objective of ongoing study.
+Welcome to my portfolio! Here you can find some codes and solutions that I wrote on my ongoing study.
 
 
 ## Some Apps:
