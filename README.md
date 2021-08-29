@@ -45,6 +45,8 @@ Code: https://github.com/daniellegb/ws-sds3 .
 Netlify (prod): https://daniellegb-sds3.netlify.app/
 
 
-## Solutions for Udemy's Complete JAVA course:
+## Backend studies:
 
-This repository has many JAVA exercises solved: https://github.com/daniellegb/exercises-java
+Solutions for Udemy's Complete JAVA course: https://github.com/daniellegb/exercises-java
+
+Introduction to JUnit Test: https://github.com/daniellegb/SimpleJUnitTest
