@@ -5,6 +5,16 @@ Welcome to my portfolio! Here you can find some codes and solutions that I wrote
 
 ## Some Apps:
 
+### MovieFlix
+
+You can leave a review of your favorite movie with this app! Be a Member and leave reviews or a Visitor and read all of them!
+
+Backend: JAVA, Spring boot.
+Frontend: Typescript, Sass, React.
+
+Code: https://github.com/daniellegb/movieflix
+Netlify: https://daniellegb-movieflix.netlify.app
+
 ### DS Catalog (in progress...)
 
 This App has a store catalog that can be accessed and modified by users of many roles (admin and/or operator for example). 
